@@ -21,3 +21,11 @@ CMOS Inverter has faster low-to-high and high-to-low output transitions compared
 3) Rapid transitions help in reducing the susceptibility to noise and interference, thereby improving the system's noise immunity and the accuracy of received data etc.
 
 
+Simulation Result
+
+Power Dissipation in CMOS Inverter![Power Dissipation in CMOS Inverter](https://github.com/Sandeep1203tech/LTspice--CMOS-Inverter-/assets/78650502/3cb53867-502f-4325-bdc3-2ddf8808516d)
+
+The power dissipation in a CMOS inverter occurs when Vin = Vth and during the transition of VTC from logic high to logic low when both the transistors are operating in the saturation region.
+
+
+
