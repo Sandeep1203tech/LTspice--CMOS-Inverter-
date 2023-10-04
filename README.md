@@ -18,6 +18,6 @@ Why are we moving towards CMOS Technology?
 CMOS Inverter has faster low-to-high and high-to-low output transitions compared to NMOS Inverter.Faster transitions are important -
 1) Reduces signal propagation delays, which is particularly important in high-speed communication systems and digital circuits where delays can impact overall system performance.
 2) Efficient transitions can help reduce power consumption.
-3) Rapid transitions help in reducing the susceptibility to noise and interference, thereby improving the system's noise immunity and the accuracy of received data.
+3) Rapid transitions help in reducing the susceptibility to noise and interference, thereby improving the system's noise immunity and the accuracy of received data etc.
 
 
